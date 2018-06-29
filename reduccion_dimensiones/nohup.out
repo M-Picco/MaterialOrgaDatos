@@ -1,0 +1,242 @@
+[I 13:49:51.457 LabApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 13:49:55.506 LabApp] JupyterLab beta preview extension loaded from /home/mpicco/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 13:49:55.506 LabApp] JupyterLab application directory is /home/mpicco/anaconda3/share/jupyter/lab
+[I 13:49:55.521 LabApp] Serving notebooks from local directory: /home/mpicco/Code/datos7506/guias/reduccion_dimensiones
+[I 13:49:55.521 LabApp] 0 active kernels
+[I 13:49:55.521 LabApp] The Jupyter Notebook is running at:
+[I 13:49:55.521 LabApp] http://localhost:8888/?token=bfdca4f442c36e2c54adbf80c9afd19ebc5c6a61ba718e0b
+[I 13:49:55.521 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:49:55.522 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=bfdca4f442c36e2c54adbf80c9afd19ebc5c6a61ba718e0b
+[I 13:49:55.785 LabApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 13:49:56.494 LabApp] Could not determine jupyterlab build status without nodejs
+[W 13:49:56.812 LabApp] 404 GET /api/contents/Code/datos7506/guias/spark/spark.ipynb?content=0&1525193396780 (127.0.0.1): No such file or directory: Code/datos7506/guias/spark/spark.ipynb
+[W 13:49:56.812 LabApp] No such file or directory: Code/datos7506/guias/spark/spark.ipynb
+[W 13:49:56.813 LabApp] 404 GET /api/contents/Code/datos7506/guias/spark/spark.ipynb?content=0&1525193396780 (127.0.0.1) 1.77ms referer=http://localhost:8888/lab
+[W 13:49:56.814 LabApp] 404 GET /api/contents/Code/datos7506/guias/spark?1525193396778 (127.0.0.1): No such file or directory: Code/datos7506/guias/spark
+[W 13:49:56.815 LabApp] No such file or directory: Code/datos7506/guias/spark
+[W 13:49:56.815 LabApp] 404 GET /api/contents/Code/datos7506/guias/spark?1525193396778 (127.0.0.1) 1.72ms referer=http://localhost:8888/lab
+[I 13:50:08.158 LabApp] Creating new notebook in /
+[I 13:50:09.228 LabApp] Kernel started: 5c766fb7-fc57-4979-bdda-27902231e7a6
+[I 13:50:10.504 LabApp] Adapting to protocol v5.1 for kernel 5c766fb7-fc57-4979-bdda-27902231e7a6
+[I 13:50:10.510 LabApp] Adapting to protocol v5.1 for kernel 5c766fb7-fc57-4979-bdda-27902231e7a6
+[I 13:50:11.359 LabApp] Saving file at /Untitled.ipynb
+[I 13:52:12.196 LabApp] Saving file at /multidim1.ipynb
+[I 14:41:29.379 LabApp] Starting buffering for 5c766fb7-fc57-4979-bdda-27902231e7a6:73a89c89bfd63d593f429ec27e18e664
+[W 14:41:32.173 LabApp] Could not determine jupyterlab build status without nodejs
+[I 14:41:32.516 LabApp] Adapting to protocol v5.1 for kernel 5c766fb7-fc57-4979-bdda-27902231e7a6
+[I 14:41:32.758 LabApp] Starting buffering for 5c766fb7-fc57-4979-bdda-27902231e7a6:74baa692b4b2c32e823607cd1a09b238
+[I 14:41:33.004 LabApp] Adapting to protocol v5.1 for kernel 5c766fb7-fc57-4979-bdda-27902231e7a6
+[I 14:47:38.128 LabApp] Starting buffering for 5c766fb7-fc57-4979-bdda-27902231e7a6:8ac6c3046d7e1a3e40ae116aae9b82fc
+[C 14:47:55.915 LabApp] received signal 15, stopping
+[I 14:47:55.916 LabApp] Shutting down 1 kernel
+[I 14:47:56.318 LabApp] Kernel shutdown: 5c766fb7-fc57-4979-bdda-27902231e7a6
+[I 22:31:46.216 LabApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 22:31:54.527 LabApp] JupyterLab beta preview extension loaded from /home/mpicco/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 22:31:54.528 LabApp] JupyterLab application directory is /home/mpicco/anaconda3/share/jupyter/lab
+[I 22:31:54.552 LabApp] Serving notebooks from local directory: /home/mpicco/Code/datos7506/guias/reduccion_dimensiones
+[I 22:31:54.552 LabApp] 0 active kernels
+[I 22:31:54.552 LabApp] The Jupyter Notebook is running at:
+[I 22:31:54.552 LabApp] http://localhost:8888/?token=15d5eebd02366d593f0e36aafd3d0645e9a997f9c19ca750
+[I 22:31:54.552 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:31:54.557 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=15d5eebd02366d593f0e36aafd3d0645e9a997f9c19ca750
+[I 22:31:55.530 LabApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 22:31:56.635 LabApp] Could not determine jupyterlab build status without nodejs
+[I 22:31:57.953 LabApp] Kernel started: 528ed2d2-b8c7-44f0-a7e8-e7e999a43e28
+[I 22:31:59.266 LabApp] Adapting to protocol v5.1 for kernel 528ed2d2-b8c7-44f0-a7e8-e7e999a43e28
+[I 22:31:59.273 LabApp] Adapting to protocol v5.1 for kernel 528ed2d2-b8c7-44f0-a7e8-e7e999a43e28
+[I 22:32:24.074 LabApp] Creating new notebook in /
+[I 22:32:24.689 LabApp] Kernel started: 92c0c270-9626-4303-9b6d-af0b2c8149fe
+[I 22:32:25.679 LabApp] Adapting to protocol v5.1 for kernel 92c0c270-9626-4303-9b6d-af0b2c8149fe
+[I 22:34:24.718 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:36:24.912 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:38:25.585 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:40:25.762 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:40:54.801 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:41:02.348 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:43:02.550 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:43:40.186 LabApp] Starting buffering for 92c0c270-9626-4303-9b6d-af0b2c8149fe:3b88aadb4ebe9ece1ffc8509a7eb8525
+[I 22:43:40.187 LabApp] Starting buffering for 528ed2d2-b8c7-44f0-a7e8-e7e999a43e28:793ecde20e083bcf3eabeb9069abd0a7
+[C 23:08:42.307 LabApp] received signal 15, stopping
+[I 23:08:42.308 LabApp] Shutting down 2 kernels
+[I 23:08:42.409 LabApp] Kernel shutdown: 528ed2d2-b8c7-44f0-a7e8-e7e999a43e28
+[I 23:08:42.409 LabApp] Kernel shutdown: 92c0c270-9626-4303-9b6d-af0b2c8149fe
+[I 20:53:21.255 LabApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 20:53:30.465 LabApp] JupyterLab beta preview extension loaded from /home/mpicco/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 20:53:30.465 LabApp] JupyterLab application directory is /home/mpicco/anaconda3/share/jupyter/lab
+[I 20:53:30.475 LabApp] Serving notebooks from local directory: /home/mpicco/Code/datos7506/guias/reduccion_dimensiones
+[I 20:53:30.475 LabApp] 0 active kernels
+[I 20:53:30.475 LabApp] The Jupyter Notebook is running at:
+[I 20:53:30.475 LabApp] http://localhost:8888/?token=d7e3241f4333462a996f10cb5246f0aa06a926cf677e2e5a
+[I 20:53:30.476 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:53:30.477 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d7e3241f4333462a996f10cb5246f0aa06a926cf677e2e5a
+[I 20:53:30.821 LabApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 20:53:31.661 LabApp] Could not determine jupyterlab build status without nodejs
+[I 20:53:33.576 LabApp] Kernel started: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 20:53:33.595 LabApp] Kernel started: d2c906eb-e415-4e4e-8b22-56eae999fbd3
+[I 20:53:35.389 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 20:53:35.397 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 20:53:35.410 LabApp] Adapting to protocol v5.1 for kernel d2c906eb-e415-4e4e-8b22-56eae999fbd3
+[I 20:53:35.463 LabApp] Adapting to protocol v5.1 for kernel d2c906eb-e415-4e4e-8b22-56eae999fbd3
+[I 20:56:26.081 LabApp] Creating new notebook in /
+[I 20:56:27.130 LabApp] Kernel started: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 20:56:28.408 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[W 20:56:41.401 LabApp] delete /multidim_peliculas_usuarios.py
+[I 20:58:27.155 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 21:00:27.703 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 21:02:27.872 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 21:03:54.190 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 21:05:54.617 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 22:14:15.641 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 22:14:33.313 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:14:33.723 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:14:34.900 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:14:34.901 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:14:34.901 LabApp] Replaying 6 buffered messages
+[I 22:14:38.245 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:14:38.660 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:14:39.681 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:14:39.682 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:14:39.682 LabApp] Replaying 6 buffered messages
+[I 22:14:40.336 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:16:16.656 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 22:24:35.687 LabApp] Saving file at /base_ortonormal.py
+[I 22:26:16.454 LabApp] Saving file at /base_ortonormal.py
+[I 22:28:29.570 LabApp] Saving file at /base_ortonormal.py
+[I 22:28:42.024 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:42:32.466 LabApp] Saving file at /base_ortonormal.py
+[I 22:42:47.287 LabApp] Saving file at /base_ortonormal.py
+[I 22:44:47.360 LabApp] Saving file at /base_ortonormal.py
+[I 22:47:21.762 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 22:47:22.169 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:47:23.117 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:47:23.118 LabApp] Discarding 6 buffered messages for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 22:47:23.124 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:47:32.749 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:48:01.424 LabApp] Kernel interrupted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:48:04.380 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:48:04.888 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:48:05.834 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:48:05.835 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:48:05.835 LabApp] Replaying 6 buffered messages
+[I 22:48:12.350 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:48:12.761 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:48:13.713 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 22:48:13.714 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 22:48:13.714 LabApp] Replaying 6 buffered messages
+[I 22:48:25.543 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 22:49:33.859 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:49:57.079 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 22:49:57.491 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:49:58.630 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:49:58.631 LabApp] Discarding 6 buffered messages for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 22:49:58.635 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:50:43.552 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 22:50:44.063 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:50:45.161 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:50:45.163 LabApp] Discarding 6 buffered messages for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 22:50:45.167 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 22:51:35.002 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 22:54:09.001 LabApp] Saving file at /base_ortonormal.py
+[I 22:54:56.720 LabApp] Saving file at /base_ortonormal.py
+[I 22:56:28.750 LabApp] Saving file at /base_ortonormal.py
+[I 23:00:01.073 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 23:00:04.321 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:00:04.833 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:00:06.021 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:00:06.021 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:00:06.022 LabApp] Replaying 6 buffered messages
+[I 23:00:41.864 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:00:42.375 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:00:43.438 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:00:43.439 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:00:43.439 LabApp] Replaying 6 buffered messages
+[I 23:00:50.008 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:00:50.417 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:00:51.450 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:00:51.451 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:00:51.451 LabApp] Replaying 6 buffered messages
+[I 23:02:02.232 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 23:07:00.746 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 23:07:05.372 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:05.883 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:06.908 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:06.909 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:06.909 LabApp] Replaying 6 buffered messages
+[I 23:07:13.921 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:14.432 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:15.516 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:15.517 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:15.517 LabApp] Replaying 6 buffered messages
+[I 23:07:25.297 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:25.705 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:26.677 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:26.678 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:26.679 LabApp] Replaying 6 buffered messages
+[I 23:07:39.881 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:40.392 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:41.339 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:07:41.340 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:07:41.340 LabApp] Replaying 6 buffered messages
+[I 23:08:00.053 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:08:00.564 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:08:01.549 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:08:01.549 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:08:01.550 LabApp] Replaying 6 buffered messages
+[I 23:08:09.858 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:08:10.370 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:08:11.279 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:08:11.280 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:08:11.280 LabApp] Replaying 6 buffered messages
+[I 23:09:00.940 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 23:12:51.433 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 23:12:51.945 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:12:52.891 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:12:52.892 LabApp] Discarding 6 buffered messages for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 23:12:52.896 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:01.471 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 23:13:01.982 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:02.888 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:02.889 LabApp] Discarding 6 buffered messages for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 23:13:02.894 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:11.913 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 23:13:12.323 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:13.236 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:13.237 LabApp] Discarding 6 buffered messages for d83e934c-7435-4e6e-be47-4161d8aa68e4:20e9615c50b0a6fd7ab2c2f144858f63
+[I 23:13:13.241 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:27.953 LabApp] Kernel restarted: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[W 23:13:27.964 LabApp] zmq message arrived on closed channel
+[W 23:13:27.965 LabApp] zmq message arrived on closed channel
+[I 23:13:27.966 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:d91722f5c4c4b44e6f4140e8636768b3
+[I 23:13:28.872 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:28.872 LabApp] Restoring connection for d83e934c-7435-4e6e-be47-4161d8aa68e4:d91722f5c4c4b44e6f4140e8636768b3
+[I 23:13:28.872 LabApp] Replaying 3 buffered messages
+[I 23:13:28.877 LabApp] Adapting to protocol v5.1 for kernel d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:13:39.516 LabApp] Saving file at /multidim_peliculas_usuarios.ipynb
+[I 23:14:39.583 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 23:14:46.411 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:14:46.923 LabApp] Kernel restarted: a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:14:47.860 LabApp] Adapting to protocol v5.1 for kernel a30be86d-6d4a-4b15-9584-41d767587cc4
+[I 23:14:47.861 LabApp] Restoring connection for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:14:47.862 LabApp] Replaying 6 buffered messages
+[I 23:16:39.793 LabApp] Saving file at /multidim_ciudades.ipynb
+[I 23:16:56.404 LabApp] Saving file at /base_ortonormal.py
+[I 23:30:56.789 LabApp] Starting buffering for a30be86d-6d4a-4b15-9584-41d767587cc4:128808bd2cc7b2cc57a96b5abdfa3c9b
+[I 23:30:56.790 LabApp] Starting buffering for d83e934c-7435-4e6e-be47-4161d8aa68e4:d91722f5c4c4b44e6f4140e8636768b3
+[I 23:30:56.790 LabApp] Starting buffering for d2c906eb-e415-4e4e-8b22-56eae999fbd3:f40f429f7fed830a9282420906ce5fc4
+[C 23:31:24.452 LabApp] received signal 15, stopping
+[I 23:31:24.453 LabApp] Shutting down 3 kernels
+[I 23:31:25.157 LabApp] Kernel shutdown: d83e934c-7435-4e6e-be47-4161d8aa68e4
+[I 23:31:25.258 LabApp] Kernel shutdown: d2c906eb-e415-4e4e-8b22-56eae999fbd3
+[I 23:31:25.259 LabApp] Kernel shutdown: a30be86d-6d4a-4b15-9584-41d767587cc4

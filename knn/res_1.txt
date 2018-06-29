@@ -1,0 +1,6 @@
+1 (pesos, clasificar)- d
+2 (distancias) - a
+3 (predecir val para 1dim) - a
+4 (kd-tree)
+5 (teorico) - d
+6 (dan el codigo) - c
